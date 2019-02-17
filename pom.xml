@@ -55,16 +55,7 @@
 	</build>
 	
 	
-	<distributionManagement>
-    <snapshotRepository>
-      <id>maven-snapshots</id>
-      <url>http://34.73.126.217:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
-    <repository>
-      <id>LocalNexusRepo</id>
-      <url>http://34.73.126.217:8081/repository/LocalNexusRepo/</url>
-    </repository>
-  </distributionManagement>
+	
 </project>
 
 </project>
